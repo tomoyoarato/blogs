@@ -65,6 +65,10 @@ gem 'arbre', '~> 1.1', '>= 1.1.1'
 
 gem 'adminlte-rails'
 
+
+gem "letter_opener", :group => :development
+
+
 # .env
 gem 'dotenv-rails', groups: [:development, :test]
 
